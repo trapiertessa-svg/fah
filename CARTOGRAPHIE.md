@@ -1,7 +1,7 @@
 # Cartographie — `particuliers.html`
 
 Page « Ménage à domicile à Reims » de Feel at Home (audience **Particuliers**).
-Fichier unique de 2 032 lignes : tout le CSS et le JS sont dans la page.
+Emplacement : `06_netlify/particuliers.html` (dossier racine du site). Fichier unique de 2 032 lignes : tout le CSS et le JS sont dans la page.
 Les numéros de ligne renvoient à `particuliers.html` dans sa version actuelle. Ils bougent dès qu'on ajoute ou retire des lignes, donc cherchez plutôt par l'`id` ou la classe indiqués.
 
 ---
